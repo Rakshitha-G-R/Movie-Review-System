@@ -1,2 +1,2 @@
-# Movies_Project
-This is a Project for ECC 
+# Movie Review System
+The project is a movie review and recommendation platform where users can browse a list of movies. If a user has already watched a movie, they can leave a rating and comment on it. Users can also view reviews and ratings from others to help them decide whether to watch a movie. Additionally, the application features an AI-powered recommendation system that suggests movies based on users' preferred genres and past viewing history.
